@@ -1,5 +1,5 @@
 locale: "en-US"
-title: KodeGuide # Title of your site
+title: "KodeGuide" # Title of your site
 url: "http://kabayomi.info" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-96670172-1"
