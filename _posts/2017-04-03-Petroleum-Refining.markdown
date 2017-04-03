@@ -1,5 +1,6 @@
 ---
 layout: post
+title: The Hitchhiker's Guide to Petroleum Refining
 ---
 <img src="http://world-businesstimes.com/wbt/wp-content/uploads/2015/08/Oil-refinery.jpg" class="fit image"> 
 
