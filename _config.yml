@@ -6,13 +6,15 @@ google_analytics_key: "UA-96670172-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description:  # this means to ignore newlines until "baseurl:"
-  For the love of engineering and tech and all the other things that comes in-between
+  For the love of engineering, tech and all the good things that comes in-between
 
 # Author details for the jekyll-seo-tag gem
 author:
   name: Abayomi Koyejo
   email: kabayomi007@gmail.com
+ linkedin: koyejoabayomi
   twitter: kabayomi007 # twitter username without the @ symbol
+     vk: geogrammer
 
 # Social details for the jekyll-seo-tag gem
 social:
@@ -48,3 +50,4 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+  - Vk
