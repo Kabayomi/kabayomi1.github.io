@@ -12,9 +12,9 @@ description:  # this means to ignore newlines until "baseurl:"
 author:
   name: Abayomi Koyejo
   email: kabayomi007@gmail.com
- linkedin: koyejoabayomi
+  linkedin: koyejoabayomi
   twitter: kabayomi007 # twitter username without the @ symbol
-     vk: geogrammer
+  vk: geogrammer
 
 # Social details for the jekyll-seo-tag gem
 social:
